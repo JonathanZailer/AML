@@ -1,0 +1,13 @@
+2018-E-c-Es-dev.zip filter=lfs diff=lfs merge=lfs -text
+2018-E-c-Es-train.txt filter=lfs diff=lfs merge=lfs -text
+model filter=lfs diff=lfs merge=lfs -text
+train_eng.json filter=lfs diff=lfs merge=lfs -text
+dev_eng.json_with_errors filter=lfs diff=lfs merge=lfs -text
+test_eng.json filter=lfs diff=lfs merge=lfs -text
+train_eng_before_batch.json filter=lfs diff=lfs merge=lfs -text
+2018-E-c-Es-dev.txt filter=lfs diff=lfs merge=lfs -text
+2018-E-c-Es-test.txt filter=lfs diff=lfs merge=lfs -text
+2018-E-c-Es-test.zip filter=lfs diff=lfs merge=lfs -text
+2018-E-c-Es-train.zip filter=lfs diff=lfs merge=lfs -text
+dev_eng.json filter=lfs diff=lfs merge=lfs -text
+try_eng.json filter=lfs diff=lfs merge=lfs -text

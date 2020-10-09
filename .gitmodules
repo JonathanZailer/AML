@@ -1,0 +1,3 @@
+[submodule "torchMoji"]
+	path = torchMoji
+	url = https://github.com/JonathanZailer/torchMoji.git
